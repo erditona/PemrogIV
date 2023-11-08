@@ -1,0 +1,1 @@
+# KETERANGAN: pada color picker jika dijalankan diemulator warna pada boxcolor tidak berubah namun warna pada container dan button berubah. Ketika running di website boxcollornya berubah berjalan normal. Mentok pak😅🙏
